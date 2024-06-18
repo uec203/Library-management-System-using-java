@@ -1,0 +1,1 @@
+It is an simple Library Management System Developed using javanetbean IDE and Java Swing and JDBC technology
